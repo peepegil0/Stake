@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Nombre: Pepe Gil Cué -->
+<empresa_sostenible>
+    <stakeholder importancia="alta">Clientes</stakeholder> <!-- Esperan calidad seguridad y bune rendimiento. -->
+    <stakeholder importancia="media">Usuarios Finales</stakeholder> <!-- Principalmente les importa la velocidad y privacidad de la web. -->
+    <stakeholder importancia="baja">Desarrolladores</stakeholder> <!-- Buscan eficiencia y sostenibilidad en el código. -->
+
+    <tema_material>
+        <descripcion>Reducción de emisiones de carbono</descripcion>
+        <nivel_impacto>Ambiental</nivel_impacto>
+    </tema_material>
+
+    <tema_material>
+        <descripcion>Igualdad de condiciones sociales</descripcion>
+        <nivel_impacto>Social</nivel_impacto>
+    </tema_material>
+
+    <tema_material>
+        <descripcion>Protección de datos</descripcion>
+        <nivel_impacto>Gobernanza</nivel_impacto>
+    </tema_material>
+</empresa_sostenible>
