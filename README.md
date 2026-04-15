@@ -15,8 +15,8 @@ En este proyecto realizo un análisis de **materialidad** aplicado a una consult
 ## Objetivo
 El objetivo de esta práctica es aprender a:
 - Identificar los principales **grupos de interés** de una empresa del sector tecnológico.
-- Analizar las expectativas de los *stakeholders* y la importancia de los aspectos **ASG** (ej. *Green IT*, *Materiality in ICT*).
-- Estructurar información de forma lógica desarrollando un documento *XML* limpio, indentado y documentado mediante comentarios.
+- Analizar las expectativas de los *stakeholders* y la importancia de los aspectos **ASG**
+- Estructurar información de forma lógica para desarrollar un documento *XML* limpio, indentado y documentado mediante comentarios.
 - Realizar búsquedas contrastadas sin depender de *chatbots* de IA sin curación.
 - Aplicar un control de versiones adecuado con al menos 3 *commits* descriptivos.
 
